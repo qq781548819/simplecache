@@ -1,5 +1,5 @@
 {
-  "name": "jiaweixs/simplecache",
+  "name": "nyuwa/simplecache",
   "description": "A PHP Simple Cache Base on File.",
   "keywords": ["cache","simple cache"],
   "license": "MIT",
@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": "^5.5.9 || ^7.0"
+    "php": "^7.0 || ^8.0"
   },
 
   "autoload": {
